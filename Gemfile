@@ -5,6 +5,6 @@ gem 'sinatra'
 gem 'rspec'
 gem 'capybara'
 
-git_source(:github) {|bookmark2| "https://github.com/#{bookmark2}" }
+git_source(:github) {|__FILE__| "https://github.com/#{bookmark2}" }
 
 # gem "rails"
