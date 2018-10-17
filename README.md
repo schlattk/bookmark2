@@ -13,3 +13,13 @@ Third User Story
 -As a user
 -So I can store bookmark data for later retrieval
 -I want to add a bookmark to Bookmark Manager
+
+Fourth User Story
+
+-As a user
+-I want to be able to delete a bookmark from the list
+
+Fifth User Story
+
+-As a user
+-so I can change a bookmark I want to be able to update it
